@@ -1,0 +1,11 @@
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\obj\Debug\List 1.csproj.AssemblyReference.cache
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\obj\Debug\List 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\obj\Debug\List_1.Form1.resources
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\obj\Debug\List_1.Properties.Resources.resources
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\obj\Debug\List 1.csproj.GenerateResource.cache
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\obj\Debug\List 1.csproj.CoreCompileInputs.cache
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\bin\Debug\List 1.exe.config
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\bin\Debug\List 1.exe
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\bin\Debug\List 1.pdb
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\obj\Debug\List 1.exe
+C:\Users\M.ARSLAN NAVEED\source\repos\List 1\List 1\obj\Debug\List 1.pdb
